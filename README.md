@@ -30,7 +30,7 @@ This app features all the latest tools and practices in mobile development!
 
 ## Getting started
 
-1. Move yourself to the frontend folder: ``cd frontend``
+1. Move yourself to the frontend folder: ``cd github_explorer``
 2. Run ``yarn install`` to install dependencies
 3. Run ``yarn start`` to start web application
 
